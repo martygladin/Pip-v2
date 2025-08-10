@@ -1,0 +1,5 @@
+# Ignore logs and large data files
+logs/*
+data/raw/*
+*.pyc
+__pycache__/
